@@ -229,3 +229,6 @@ Open GitHub and create a Pull Request to the `main` branch.
 
 ---
 
+## 📸 Screenshots
+
+Add your application screenshots inside the `screenshots/` folder:
